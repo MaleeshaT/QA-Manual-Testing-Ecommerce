@@ -74,6 +74,13 @@ Test cases executed
 
 Test summary report completed
 
+| Risk                    | Mitigation                     |
+| ----------------------- | ------------------------------ |
+| Incomplete requirements | Clarify with stakeholders      |
+| Test data issues        | Use controlled dummy data      |
+| Limited time            | Prioritize critical test cases |
+
+
 
 
 
