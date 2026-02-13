@@ -59,4 +59,14 @@ Cart total calculation mismatch
 
 Session timeout not handled properly
 
-Password field accepted less than minimum required characters
+The password field accepted fewer than the minimum required characters
+
+📈 Project Metrics
+
+9 Test Cases Designed
+
+3 Defects Identified (1 Critical, 1 High, 1 Medium)
+
+100% Requirement Coverage Achieved
+
+Manual Test Execution Completed
